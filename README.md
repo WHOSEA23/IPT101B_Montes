@@ -4,5 +4,5 @@
 * [@Montes](https://github.com/WHOSEA23)
 ## Sample Code
 `printf("Hello World!");`
-## how to install
+## How to Install
 - step 1: Download the zip file or use git clone
